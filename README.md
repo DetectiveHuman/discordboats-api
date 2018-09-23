@@ -36,4 +36,4 @@ client.updateCount(1680).then(() => {
 ```
 
 ## License
-[Apache 2.0 License](ttps://github.com/DetectiveHuman/discordboats-api/master/LICENSE)
+[Apache 2.0 License](https://github.com/DetectiveHuman/discordboats-api/blob/master/LICENSE)
