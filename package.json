@@ -1,6 +1,6 @@
 {
   "name": "discordboats.xyz",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple library for interacting with the discordboats.zyx API.",
   "main": "src/Main.js",
   "scripts": {
