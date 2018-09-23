@@ -1,0 +1,22 @@
+{
+  "name": "discordboats.xyz",
+  "version": "1.0.0",
+  "description": "A simple library for interacting with the discordboats.zyx API.",
+  "main": "src/Main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DetectiveHuman/discordboats-api.git"
+  },
+  "author": "Jacob Rayner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DetectiveHuman/discordboats-api/issues"
+  },
+  "homepage": "https://github.com/DetectiveHuman/discordboats-api#readme",
+  "dependencies": {
+    "snekfetch": "^4.0.4"
+  }
+}
