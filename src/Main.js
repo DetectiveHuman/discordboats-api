@@ -7,7 +7,7 @@ class Client {
         if (typeof token != 'string') throw new TypeError('Token must be a string');
         this.id = id;
         this.token = token;
-        this.baseURL = 'https://discordboats.xyz/api';
+        this.baseURL = 'https://discord.boats/api';
     }
 
     /**
