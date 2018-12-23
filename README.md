@@ -1,8 +1,8 @@
-# discordboats.xyz API
+# discord.boats API
 A simple library for interacting with the discordboats.zyx API.
 
 ## Getting Started
-Simply install by navigating to your project directory then running `npm i discordboats.xyz`.
+Simply install by navigating to your project directory then running `npm i discord.boats`.
 
 ## Example
 
